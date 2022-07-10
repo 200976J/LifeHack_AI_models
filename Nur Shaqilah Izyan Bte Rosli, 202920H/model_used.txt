@@ -1,0 +1,1 @@
+Among the many pre-trained models available online, we are using SSD Mobilenet V2 for object detection.

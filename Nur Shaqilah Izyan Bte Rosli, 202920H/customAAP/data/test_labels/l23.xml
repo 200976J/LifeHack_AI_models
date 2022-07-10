@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>l23.jpg</filename>
+	<path>C:\Users\Shaqilah\Documents\Y3S1\AAP\e-waste\images\train\l23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>laptops</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>748</xmin>
+			<ymin>266</ymin>
+			<xmax>3183</xmax>
+			<ymax>2066</ymax>
+		</bndbox>
+	</object>
+</annotation>

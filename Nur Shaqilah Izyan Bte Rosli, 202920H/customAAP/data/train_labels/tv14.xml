@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>tv14.jpg</filename>
+	<path>C:\Users\Shaqilah\Downloads\img\tv14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2160</width>
+		<height>1215</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tv</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>201</xmin>
+			<ymin>63</ymin>
+			<xmax>1889</xmax>
+			<ymax>1126</ymax>
+		</bndbox>
+	</object>
+</annotation>
